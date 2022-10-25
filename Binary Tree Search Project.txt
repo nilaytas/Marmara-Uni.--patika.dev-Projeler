@@ -17,13 +17,13 @@ Sayı dizisinde yer alan değerler root elemandan büyükse root elemanın sağ�
 
                    7
                   / \
-				 5   8
-				/ \   \
-			   1   6   9
-			  / \
-			 0	 3
-				/ \
-			   2   4
+		 5   8
+		/ \   \
+	       1   6   9
+	        / \
+	       0   3
+		  / \
+		 2   4
 
 
 www.patika.dev
