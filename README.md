@@ -1,1 +1,1 @@
-# Marmara-Uni.--patika.dev-Projeler
+# Marmara-Uni-patika.dev
